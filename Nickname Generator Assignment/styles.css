@@ -1,0 +1,13 @@
+body {
+    background-color:dodgerblue;
+    color: white;
+}
+#name-input {
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#container div {
+    font-size: 30px;
+}
